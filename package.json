@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "compile": "truffle compile"
+  },
+  "devDependencies": {
+    "ganache": "7.7.3",
+    "truffle": "5.7.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.8.1"
+  }
+}
