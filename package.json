@@ -7,6 +7,6 @@
     "truffle": "^5.9.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.3"
+    "@openzeppelin/contracts": "^4.9.1"
   }
 }
